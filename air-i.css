@@ -1,0 +1,277 @@
+.logo123-1-icon {
+  position: relative;
+  border-radius: var(--br-81xl);
+  width: 66px;
+  height: 66px;
+  object-fit: cover;
+}
+.title {
+  flex: 1;
+  position: relative;
+  line-height: 36px;
+  font-weight: 500;
+}
+.top-bar-child {
+  position: relative;
+  border-radius: var(--br-81xl);
+  width: 40px;
+  height: 40px;
+}
+.tab {
+  position: relative;
+  line-height: 24px;
+}
+.navigation {
+  background-color: var(--color-darkgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  font-size: var(--font-size-base);
+}
+.air-pollution-1,
+.top-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.top-bar {
+  width: 100%;
+  right: 0;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+  height: 80px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.air-pollution-1 {
+  width: 1440px;
+  height: 297px;
+  object-fit: cover;
+}
+.air-pollution {
+  position: absolute;
+  top: 118px;
+  left: 474px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 492px;
+  height: 61px;
+}
+.air-pollution-1-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1440px;
+  height: 297px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 64px;
+  color: var(--color-white);
+}
+.air-pollution-is,
+.causes-of-air,
+.what-is-air {
+  position: absolute;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+.what-is-air {
+  top: 19px;
+  font-size: var(--font-size-17xl);
+  width: 369px;
+  height: 56px;
+}
+.air-pollution-is,
+.causes-of-air {
+  top: 75px;
+  width: 1254px;
+  height: 252px;
+}
+.causes-of-air {
+  top: 334px;
+  font-size: var(--font-size-17xl);
+  width: 387px;
+  height: 44px;
+}
+.burning-of-fossil-fuels {
+  margin: 0;
+}
+.burning-of-fossil-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.burning-of-fossil-container {
+  top: 384px;
+  width: 1254px;
+  height: 307px;
+}
+.burning-of-fossil-container,
+.global-warming-due-container,
+.the-hazardous-effects {
+  position: absolute;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+.the-hazardous-effects {
+  top: 756px;
+  font-size: 32px;
+  width: 971px;
+  height: 25px;
+}
+.global-warming-due-container {
+  top: 820px;
+  width: 1254px;
+  height: 98px;
+}
+.gobal-warming-1 {
+  position: absolute;
+  top: 944px;
+  left: 346px;
+  width: 727px;
+  height: 601px;
+  object-fit: cover;
+}
+.acid-rain-the-container {
+  position: absolute;
+  top: 1612px;
+  left: 93px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1254px;
+  height: 112px;
+}
+.acid-rain-1-icon {
+  position: absolute;
+  top: 1739px;
+  left: 270px;
+  width: 900px;
+  height: 665px;
+  object-fit: cover;
+}
+.ozone-layer-depletion-container {
+  position: absolute;
+  top: 2461px;
+  left: 93px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1254px;
+  height: 125px;
+}
+.ozone-layer-deplition-1 {
+  position: absolute;
+  top: 2586px;
+  left: 322px;
+  width: 800px;
+  height: 450px;
+  object-fit: cover;
+}
+.b {
+  font-family: var(--font-roboto);
+}
+.use-of-clean {
+  font-weight: 600;
+}
+.air-pollution-control,
+.avoid-using-vehicles-container {
+  position: absolute;
+  top: 3171px;
+  left: 93px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1190px;
+  height: 280px;
+}
+.air-pollution-control {
+  top: 3102px;
+  font-size: var(--font-size-17xl);
+  width: 337px;
+  height: 69px;
+}
+.what-is-air-pollution-parent {
+  position: absolute;
+  top: 377px;
+  left: 0;
+  width: 1440px;
+  height: 3497px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+}
+.title1,
+.title2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  flex-shrink: 0;
+}
+.title1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 406px;
+}
+.title2 {
+  width: 124px;
+}
+.container,
+.section,
+.title2,
+.title3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  width: 196px;
+  flex-shrink: 0;
+}
+.container,
+.section {
+  flex-direction: row;
+}
+.container {
+  height: 100px;
+  gap: 60px;
+}
+.section {
+  position: absolute;
+  top: 3874px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1440px;
+  overflow: hidden;
+  padding: 60px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.desktop-8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4094px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 28px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

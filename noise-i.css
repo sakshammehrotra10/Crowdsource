@@ -1,0 +1,244 @@
+.logo123-1-icon {
+  position: relative;
+  border-radius: var(--br-81xl);
+  width: 66px;
+  height: 66px;
+  object-fit: cover;
+}
+.title {
+  flex: 1;
+  position: relative;
+  line-height: 36px;
+  font-weight: 500;
+}
+.top-bar-child {
+  position: relative;
+  border-radius: var(--br-81xl);
+  width: 40px;
+  height: 40px;
+}
+.tab {
+  position: relative;
+  line-height: 24px;
+}
+.navigation {
+  background-color: var(--color-darkgray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  font-size: var(--font-size-base);
+}
+.top-bar,
+.what-is-noise {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.top-bar {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-darkgray);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+  height: 80px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.what-is-noise {
+  top: 19px;
+  left: 83px;
+  font-size: var(--font-size-17xl);
+  line-height: 28px;
+  width: 423px;
+  height: 56px;
+}
+.noise-pollution-is {
+  margin: 0;
+}
+.noise-pollution-is-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.noise-pollution-is-container {
+  position: absolute;
+  top: 75px;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1254px;
+  height: 391px;
+}
+.causes-of-noise {
+  top: 513px;
+  font-size: var(--font-size-17xl);
+  width: 423px;
+  height: 56px;
+}
+.causes-of-noise,
+.causes-of-noise1,
+.following-are-the-container {
+  position: absolute;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+.causes-of-noise1 {
+  top: 1613px;
+  font-size: var(--font-size-17xl);
+  width: 423px;
+  height: 56px;
+}
+.following-are-the-container {
+  top: 569px;
+  width: 1254px;
+}
+.c9be6e34-48ab-48b8-94da-4e21b8-icon {
+  position: absolute;
+  top: 940px;
+  left: 297px;
+  width: 826px;
+  height: 626px;
+  object-fit: cover;
+}
+.health-issues-hearing-container {
+  position: absolute;
+  top: 1669px;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1254px;
+  height: 480px;
+}
+.dad5f832-d42c-48d3-9f88-5f91a7-icon {
+  position: absolute;
+  top: 2164px;
+  left: 283px;
+  width: 853px;
+  height: 580px;
+  object-fit: cover;
+}
+.prevention {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+}
+.prevention-some-noise-container {
+  position: absolute;
+  top: 2797px;
+  left: 83px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 1254px;
+  height: 270px;
+}
+.what-is-noise-pollution-parent {
+  position: absolute;
+  top: 377px;
+  left: 0;
+  width: 1440px;
+  height: 3138px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+}
+.title1,
+.title2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  flex-shrink: 0;
+}
+.title1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 406px;
+}
+.title2 {
+  width: 124px;
+}
+.container,
+.section,
+.title2,
+.title3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  width: 196px;
+  flex-shrink: 0;
+}
+.container,
+.section {
+  flex-direction: row;
+}
+.container {
+  height: 100px;
+  gap: 60px;
+}
+.section {
+  position: absolute;
+  top: 3515px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1440px;
+  overflow: hidden;
+  padding: 60px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.f78b0-e94c-4bdd-8916-a9c03a9b8-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 316px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.noise-pollution {
+  position: absolute;
+  top: 118px;
+  left: 474px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 492px;
+  height: 61px;
+}
+.f78b0-e94c-4bdd-8916-a9c03a9b8-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1440px;
+  height: 297px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 64px;
+}
+.desktop-11 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3735px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 28px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
